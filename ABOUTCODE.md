@@ -1,11 +1,11 @@
-## Languages
-Python (Jupyter notebook) was used in this Exploratory Data Analysis
-## Libraries
-- Data Preparation
+# Languages
+**Python (Jupyter notebook)** was used in this Exploratory Data Analysis
+# Libraries
+- **Data Preparation**
   - Numpy
   - Pandas
-- Visualization
+- **Visualization**
   - Matplotlib
   - Seaborn
-- Predictions
+- **Predictions**
   - Sklearn (Scikit-learn)
